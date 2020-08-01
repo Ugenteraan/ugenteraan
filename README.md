@@ -1,2 +1,2 @@
-![Ugenteraan's github stats](https://github-readme-stats.vercel.app/api?username=ugenteraan&show_icons=true&theme=merko)
+![Ugenteraan's github stats](https://github-readme-stats.vercel.app/api?username=ugenteraan&show_icons=true&theme=merko&cache_seconds=3000)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugenteraan&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
