@@ -1,4 +1,4 @@
-Welcome! I'm a machine learning engineer and a researcher. You can find some of the projects that I've done in this profile. If you wish to know more about mt, you can find me on [![LinkedIn][1.1]][1]
+Welcome! I'm a machine learning engineer and a researcher. You can find some of the projects that I've done in this profile. If you wish to know more about me, you can find it on [![LinkedIn][1.1]][1]
 
 
 
