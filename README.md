@@ -1,4 +1,4 @@
-Welcome! I'm a machine learning engineer and a researcher. You can find some of the projects that I've done in this profile. If you wish to know more about me, you can find it on [![LinkedIn][1.1]][1]
+Welcome! I'm a Machine Learning & a back-end engineer as well as a researcher with having a research paper published in this year's Intelligent Systems Conference (IntelliSys 2020). Apart from working as an engineer and a freelancer for my living, I find pleasure in contributing to open-source projects to inspire and aid the growth of technology. You can find some of the projects that I've done in this profile. All my projects here are free to be used in any way you like. If you wish to know more about me, you can find it on [![LinkedIn][1.1]][1].
 
 
 
