@@ -1,4 +1,4 @@
-Hello! I'm a **Machine Learning** & a **Back-End** engineer as well as a **researcher** with having a research paper published in this year's *Intelligent Systems Conference* (IntelliSys 2020). Apart from working as an engineer & a freelancer for my living, I enjoy contributing to open-source projects to inspire the growth of technology. You can find some of the projects that I've done in this profile and they are free to be used in any way you like. If you wish to know more about me, you can find it on [![LinkedIn][1.1]][1].
+Hello! I'm a **Machine Learning** & a **Back-End** engineer as well as a **researcher** where I recently published a paper in *IntelliSys 2020*. Apart from working as an engineer & a freelancer for my living, I enjoy contributing to open-source projects to inspire the growth of technology. All my projects here are free to be used in any way you like. If you wish to know more about me, you can find it on [![LinkedIn][1.1]][1].
 
 
 
