@@ -1,4 +1,4 @@
-Hello! I'm a **Machine Learning** & a **Back-End** engineer as well as a **researcher** where I recently published a paper in *IntelliSys 2020*. Apart from working as an engineer & a freelancer for my living, I enjoy contributing to open-source projects to inspire the growth of technology. All my projects here are free to be used in any way you like. 
+Hello! I'm a **Machine Learning** & a **Back-End** engineer as well as a **researcher** who published a paper in *IntelliSys 2020* recently. Apart from working as an engineer & a freelancer for my living, I enjoy contributing to open-source projects to inspire the growth of technology. All my projects here are free to be used in any way you like. 
 
 
 ![Ugenteraan's github stats](https://github-readme-stats.vercel.app/api?username=ugenteraan&show_icons=true&theme=merko&cache_seconds=3000)
