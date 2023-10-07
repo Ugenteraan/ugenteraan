@@ -3,9 +3,6 @@ Hey there! I'm a **Senior AI Engineer** and a **Machine Learning** enthusiast. A
 If you'd like to hire me for freelance or consultation, do visit https://cleverx.com/@Ugenteraan-M
 
 
-![Ugenteraan's github stats](https://github-readme-stats.vercel.app/api?username=ugenteraan&show_icons=true&theme=merko&cache_seconds=3000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugenteraan&layout=compact)
-
 You can find my resume and more about me on [![LinkedIn][1.1]][1] or message me directly at [![Telegram](https://github.com/Ugenteraan/ugenteraan/blob/master/pic/telegram-ico.png)](https://t.me/Ugenteraan).
 
 
